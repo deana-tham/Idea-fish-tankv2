@@ -90,7 +90,7 @@ export default function App() {
         <img 
           src={imgFishTankSketch} 
           alt="Fish Tank" 
-          className="w-full h-full object-cover"
+          className="w-full h-full object-fill"
         />
       </div>
 

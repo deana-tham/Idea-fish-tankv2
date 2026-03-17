@@ -3,7 +3,8 @@
 A playful idea storage app where your ideas become fish that swim around a virtual tank.
 
 ## Demo
-(will insert demo later)
+Live demo: https://idea-fish-tankv2-2.vercel.app/
+(will insert gif later)
 
 ## Problem
 

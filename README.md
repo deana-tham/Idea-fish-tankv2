@@ -5,7 +5,8 @@ A playful idea storage app where your ideas become fish that swim around a virtu
 ## Demo
 Live demo: https://idea-fish-tankv2-2.vercel.app/
 ## Preview
-![Demo](src/assets/demo.gif)
+![Demo](C:\Users\Deana\Documents\GitHub\Idea-fish-tankv2\fish_tank_v2\src\assets\demo.gif)
+
 ## Problem
 
 I often come up with random ideas throughout the day but don't always have a consistent place to store them. Sometimes I write them on sticky notes, random notebooks, or in my notes app. Because these ideas are scattered across different places, I often forget about them or lose track of them entirely.
